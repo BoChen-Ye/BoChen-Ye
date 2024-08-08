@@ -4,4 +4,4 @@
 - 🔭 I’m currently working on a new protocol @ NXP. Before that, I am a intern @ Synopsys for ECC hardware codec.
 - 🌱 I plan to learn SoC, ASIC accelerator for deep learning, Neuromorphic hardware, Multi-core Architecture with NoC.
 - 💞️ I’m looking to collaborate on RTL design/verification.
-- 📫 How to reach me: b.ye@student.tue.nl/y19966505415@163.com
+- 📫 How to reach me: b.ye@student.tue.nl / y19966505415@163.com
